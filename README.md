@@ -1,28 +1,29 @@
 # Einkaufsliste
+#
 
-Name, Vorname: Tastan Fu 
+***Name, Vorname:*** Tastan Fu 
 
-Geboren am: 10.10.1900 
+***Geboren am:*** 10.10.1900 
 
-Geburtsort: Am Schleifenbach geboren
+***Geburtsort:*** Am Schleifenbach geboren
 
-Wohnort: In der Höhle am Schleifenbach
+***Wohnort:*** In der Höhle am Schleifenbach
 
 
 
-Größe: 166 groß
+***Größe:*** 166 groß
 
-Gewicht: 100 kg schwer
+***Gewicht:*** 100 kg schwer
 
-Augen Farbe: Schwarze Augen
+***Augen Farbe:*** Schwarze Augen
 
-Haar Farbe: Schwarze Haare
+***Haar Farbe:*** Schwarze Haare
 
-Lieblingsfarbe: Liebe schwarze Farben
+***Lieblingsfarbe:*** Liebe schwarze Farben
 
-Lieblingsessen: Esse Ratten
+***Lieblingsessen:*** Esse Ratten
 
-Mein Hobby: Jagen
+***Mein Hobby:*** Jagen
 
-Beruf: Selbständig
+***Beruf:*** Selbständig
 
