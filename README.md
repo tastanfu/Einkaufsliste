@@ -1,5 +1,6 @@
 # Einkaufsliste
 #
+![nur ein Beispiel](http://blog.racheshop.de/wp-content/uploads/2012/05/H%C3%B6hlenmensch-270x300.jpg "Beispielbild")
 
 ***Name, Vorname:*** Tastan Fu 
 
